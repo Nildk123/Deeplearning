@@ -1,5 +1,5 @@
-First 20 epochs:
-  Train on 60000 samples, validate on 10000 samples
+#####################First 20 epochs:(check epoch 14-16 or 18-19)
+Train on 60000 samples, validate on 10000 samples
 Epoch 1/20
 
 Epoch 00001: LearningRateScheduler setting learning rate to 0.003.
